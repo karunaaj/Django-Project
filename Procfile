@@ -1,0 +1,1 @@
+web: gunicorn airoguard.wsgi --log-file -
